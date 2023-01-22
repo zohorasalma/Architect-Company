@@ -134,6 +134,7 @@
     padding: 24px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
     border-radius: 8px;
+
 }
 
 .btn-block {
@@ -330,6 +331,9 @@
         flex-direction: column;
 
     }
+    .feature-card{
+        margin-bottom: 1em;
+    }
 
     .btn-block {
 
@@ -356,6 +360,9 @@
 .sponsor-icons{
     grid-template-columns: repeat(1,1fr);
     gap:15%;
+}
+.footer{
+    margin: 2em 0;
 }
 
 
